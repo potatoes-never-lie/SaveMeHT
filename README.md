@@ -1,6 +1,6 @@
 # SaveMeHT
 
-실행 중에 DB 설정(user, password, db 등) 바꿔주어야 합니다!!
+실행 전에 DB 설정(user, password, db 등) 바꿔주어야 합니다!!
 
 ## join 실행방법
 
