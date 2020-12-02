@@ -11,7 +11,7 @@ npm install ejs --save
 ## 주요 코드 내용:
   - routes/index.js : 소셜 로그인 처리 코드
   - commons/secret.js: 소셜 로그인 client id, secret id
-  - commons/db_con.js: 데이터베이스 
+  - commons/db_con.js: 데이터베이스 정보
   - views/view.ejs: 테스트 화면 구현을 위한 코드
   
 ## 테스트 방법:
