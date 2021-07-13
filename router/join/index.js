@@ -10,7 +10,7 @@ var LocalStrategy=require('passport-local').Strategy;
 var connection = mysql.createConnection({
 	host: 'localhost',
 	user: 'cyrhee',
-	password: 'codus9601',
+	password: '1111',
 	database: 'testdb'
   })
   
